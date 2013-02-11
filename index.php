@@ -5,7 +5,7 @@ html_header("Jordan Hinkle");
 navigation();
 ?>
     <div class="container">
-        <p></p>
+        <p>Coming soon...</p>
     </div>
 
 <?php
