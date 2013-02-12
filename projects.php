@@ -8,15 +8,11 @@ navigation();
         <h2>Projects</h2>
         <div class="tabbable">
             <ul class="nav nav-tabs">
-                <li class="active"><a href="#tab1" data-toggle="tab">First Project</a></li>
-                <li><a href="#tab2" data-toggle="tab">Second Project</a></li>
+                <li class="active"><a href="#tab1" data-toggle="tab">Starcraft 2 Hotkey Trainer</a></li>
             </ul>
             <div class="tab-content">
                 <div class="tab-pane active" id="tab1">
-                    <p>Project 1 description</p>
-                </div>
-                <div class="tab-pane" id="tab2">
-                    <p>Project 2 description</p>
+                    <p>Test your knowledge of SC2 hotkeys. With this little diddy all you need to do is choose a race then you'll be prompted for every hotkey for that race. <br/><br/><a href="sc2">Try the demo here!</a></p>
                 </div>
             </div>
         </div>
